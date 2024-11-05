@@ -1,0 +1,54 @@
+.article{
+    border: 1px solid rgb(72, 71, 71);
+    border-radius: 7px;
+    padding: 1.5%;
+    margin-bottom: 2%;
+}
+.btn-primary{
+    margin-bottom: 2%;
+    background-color: green;
+}
+.btn-delete{
+    background-color: red;
+}
+
+.btn {
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+.btn-edit{
+    background-color: cadetblue;
+}
+.btn-more{
+    background-color: blue;
+}
+.btn-cancel {
+    background-color: grey;
+}
+.btn-save{
+    background-color: rgb(5, 116, 153);
+}
+.form-vertical{
+    display: flex;
+    flex-direction: column;
+    padding: 1.5%;
+}
+.form-buttons{
+    margin-top: 2%;
+}
+.new-title{
+    margin-left: 1.5%;
+}
+.form-title{
+    padding: 0.75% 0 0.75% 0;
+    font-size: 16px;
+}
+.form-input{
+    padding: 2px;
+}
+.article-control a{
+    text-decoration: none;
+}
